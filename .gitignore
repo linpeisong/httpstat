@@ -17,3 +17,5 @@ docs/_build/
 
 # Others #
 .virtualenv
+
+.vscode
